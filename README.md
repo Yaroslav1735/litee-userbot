@@ -1,2 +1,1 @@
-# [Repository moved to GitLab](https://gitlab.com/friendly-telegram/friendly-telegram)
-
+[ВСЁ В ТЕЛЕГРАММ](https://t.me/liteeuserbot)
